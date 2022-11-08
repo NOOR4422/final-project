@@ -1,0 +1,47 @@
+.d{
+    display: flex;
+    width: 24.7%;
+    background-color: white;
+    border-radius: 8px;
+   margin-left: -10px;
+   border-radius: 5px;
+    padding: 5px;
+}
+
+.ddd{
+    display: flex;
+
+    width: 87.4%;
+    margin-left: 120px;
+    justify-content: space-between;
+}
+
+.dddd{
+
+    font-size: 20px;
+    font-weight: 800px;
+    margin-right: 7px;
+    margin-top: 2px;
+}
+.ddddd{
+display:flex;
+  
+    width: 24.5%;
+    height: 40px;
+    padding:5px;
+}
+
+
+.p{
+     margin-left: 110px;
+    width:87.9%;
+    font-size: 13px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px;
+}
+a:hover{
+
+    transform: scale(1.01);
+ 
+}

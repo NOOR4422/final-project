@@ -1,0 +1,66 @@
+.a{
+
+    list-style: none;
+}
+.aa:hover{
+    color: orange;
+}
+
+.fourdiv{
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+   font-size: 12px;
+   font-weight: 400;
+}
+.a{
+    margin-left: -24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ahh{
+    font-size: 13px;
+    padding: 0%;
+    white-space: 1px;
+    color: rgb(72, 71, 71);
+    line-height: .415;
+}
+.aahh{
+    list-style: none;
+    padding-left: 15px;
+   
+    background-color: white;
+}
+.bv{
+  
+    display: flex;
+    justify-content: space-between;
+}
+
+.list{
+    background-color: white;
+}
+
+.ah:hover{
+    color: orange;
+}
+
+.ahh:hover{
+    color: orange;
+    transform: scale(1.05);
+}

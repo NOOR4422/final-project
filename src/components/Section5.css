@@ -1,0 +1,49 @@
+.bb{
+    margin-left: 135px;
+    width: 75.2%;
+}
+
+.w{
+    background-color:  rgb(228, 237, 249);
+    width: 75%;
+    margin-left: 140px;
+    display: flex;
+    padding: 0px;
+    border-radius: 9px;
+    justify-content: space-between;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    font-weight: 300;
+    font-size: larger;
+}
+
+
+.hh:hover{
+
+    transform: scale(1.05);
+ 
+}
+
+.bb:hover{
+    transform: scale(1.02);
+}
+
+
+.c:hover{
+    transform: scale(1.02);
+}
+
+
+.ll{
+
+    width: 102.9%;
+}
+a:hover{
+    color: black;
+}
+
+.m:hover{
+    color: orange;
+
+}

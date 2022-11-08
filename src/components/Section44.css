@@ -1,0 +1,224 @@
+.k{
+    margin-left: 110px;
+    border-radius: 10px;
+   background-color: rgb(255, 255, 255);
+   width: 85.8%;
+   justify-content: space-between;
+}
+.kk{
+    margin-left: 12px;
+    display: flex;
+    width: 98%;
+    border-radius: 15px;
+justify-content: space-between;
+}
+.kkk{
+
+width: 99.9%;
+    justify-content: space-between;
+    padding:5px;
+}
+.kkkk{
+    background-color: rgb(241, 30, 30);
+    width: 83.5%;
+    margin-left: 110px;
+    display: flex;
+    padding: 8px;
+    border-radius: 5px;
+    justify-content: space-between;
+    font-weight: 1200px;
+    color: white;
+    font-size: 20px;
+
+}
+.kkkkk{
+    background-color: rgb(228, 237, 249);
+        width: 75%;
+        margin-left: 142px;
+        display: flex;
+        padding: -2px;
+        border-radius: 5px;
+        justify-content: space-between;
+        font-weight: bolder;
+        color: rgb(33, 33, 33);
+    }
+    .o{
+        width: 95%;
+        display: flex;
+       
+        margin-left: 30px;
+        padding: 5px;
+    }
+.oo{
+justify-content: space-between;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 140px;
+    width: 75%;
+}
+.kkkkkk{
+    width:99%;
+    border-radius: 10px;
+    
+  
+}
+
+.f{
+    background-color:  rgb(228, 237, 249);
+    width: 75%;
+    margin-left: 140px;
+    display: flex;
+    padding: 0px;
+    border-radius: 9px;
+    justify-content: space-between;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+
+.h{
+    width: 75%;
+    margin-left: 140px;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: .5px solid white;
+    background-color: white;
+}
+
+.hh{
+    background-color: white;
+    width: 34.2%;
+    padding: 5px;
+    margin-left: -12px;
+}
+
+
+
+.fff{
+    background-color:  rgb(12, 12, 12);
+    width: 75%;
+    margin-left: 140px;
+    display: flex;
+    padding: 0px;
+    border-radius: 9px;
+    justify-content: space-between;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    font-weight: 300;
+    font-size: larger;
+}
+
+.ffff{
+    margin-left: 430px;
+}
+
+
+
+.u{
+    width: 86.5%;
+    margin-left: 120px;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: .5px solid white;
+    background-color: white;
+}
+
+.uu{
+    background-color: white;
+    width: 49.9%;
+    padding: 8px;
+}
+
+.i{
+    width: 87%;
+    margin-left: 115px;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: .5px solid white;
+    background-color: white;
+
+}
+.ii{
+
+    background-color: white;
+    width: 99.9%;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.v:hover{
+
+    transform: scale(1.04);
+ 
+}
+
+
+.uu:hover{
+
+    transform: scale(1.02);
+ 
+}
+
+
+
+.ii:hover{
+
+    transform: scale(1.02);
+ 
+}
+
+
+
+.hh:hover{
+
+    transform: scale(1.02);
+ 
+}
+
+
+.mmm{
+
+    width: 50.0%;
+border-radius: 10px;
+margin-left: -10px;
+padding-left: 5px;
+    
+}
+
+.mmmm{
+    background-color: rgb(255, 231, 215);
+    padding: .2px;
+   padding-left: 580px;
+   width: 100%;
+   border-radius: 5px;
+}
+.f{
+    margin-left: 107px;
+    width:86.3%;
+    background-color: rgb(255, 231, 215);
+    font-size: 22px;
+    font-weight: 450;
+    margin-top: 12px;
+}
+.l{
+
+    border: .9px solid white;
+    border-radius: 5px;
+   
+    border-width: 40%;
+    margin-right: -5px;
+}
+
+
+.mmm:hover{
+
+    transform: scale(1.02);
+ 
+}
+
+.kkk:hover{
+
+    transform: scale(1.02);
+ 
+}

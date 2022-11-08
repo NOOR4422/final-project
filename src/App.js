@@ -1,8 +1,8 @@
 // import logo from './logo.svg';
 // import { useState,useEffect } from 'react';
 import './App.css';
+import Home from './components/Home';
 // import {firestore} from './firebase/config';
-import Phones from './components/product/products/Phones';
 function App() {
   // const [phone,setphone] = useState([]);
   // const fetch = async () =>{
@@ -14,12 +14,13 @@ function App() {
   // fetch()
   // }, []);
   return (
-    <>
+    <div className='container'>
       
-   <Phones/>
+   {/* <Phones/> */}
+   <Home />
     
      
-    </>
+    </div>
   );
 }
 
